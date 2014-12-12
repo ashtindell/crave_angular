@@ -8,7 +8,7 @@
  * Controller of the craveAngularApp
  */
 angular.module('craveAngularApp')
-  .controller('MainCtrl', function ($scope) {
+  .controller('ShopCtrl', function ($scope) {
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
